@@ -9,6 +9,7 @@ Flask-Migrate = "3.1.0"
 Flask-SQLAlchemy = "2.5.1"
 sqlalchemy-serializer = "*"
 flask-cors = "*"
+werkzeug = "2.2.2"
 
 [requires]
 python_full_version = "3.8.13"
